@@ -1,0 +1,60 @@
+# crc
+
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg5_Hamming_CRC$ gcc crc.c 
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg5_Hamming_CRC$ ./a.out 
+Enter Data: 1001
+Enter Key: 1011
+
+Quotient is 1010
+Remainder is 110
+Final data is: 1001110
+
+
+
+# hamming
+
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg5_Hamming_CRC$ ./a.out 
+Enter 4 bits of data one by one
+1
+0
+1
+1
+
+Encoded data is
+1010101
+
+Enter received data bits one by one
+1
+0
+1
+0
+1
+0
+1
+
+No error while transmission of data
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg5_Hamming_CRC$ ./a.out 
+Enter 4 bits of data one by one
+1
+0
+1
+1
+
+Encoded data is
+1010101
+
+Enter received data bits one by one
+1
+1
+1
+0
+1
+0
+1
+
+Error on position 6
+Data sent : 1010101
+Data received : 1110101
+Correct message is
+1010101rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg5_Hamming_CRC$ 
+

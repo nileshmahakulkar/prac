@@ -1,0 +1,14 @@
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Assg8_DNS$ python3 DNS.py 
+Welcome to DNS Lookup
+Enter your option 1. URL to IP 2. IP to URL
+Enter Option1
+Enter URL/IPwww.google.com
+('bom07s10-in-f4.1e100.net', ['bom07s10-in-f164.1e100.net'], ['216.58.220.164'])
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Assg8_DNS$ python3 DNS.py 
+Welcome to DNS Lookup
+Enter your option 1. URL to IP 2. IP to URL
+Enter Option2
+Enter URL/IP8.8.8.8
+('google-public-dns-a.google.com', [], ['8.8.8.8'])
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Assg8_DNS$ 
+

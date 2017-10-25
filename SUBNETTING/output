@@ -1,0 +1,16 @@
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg7_Subnetting$ javac Subnet.java 
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg7_Subnetting$ java Subnet 
+Enter the ip address: 192.168.122.34
+Class C IP Address
+Defaultt mask is: 255.255.255.0
+IP in binary is 11000000101010000111101000100010
+Enter the number of subnets: 4
+Number of bits borrowd from host to network are = 2
+Number of host bits are = 6
+New subnet mask is = 192
+Subnet Size = 64
+first Subnet Details
+first N/W address is = 192.168.122.0
+Broadcast address is = 192.168.122.63
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg7_Subnetting$ 
+

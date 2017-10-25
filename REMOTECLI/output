@@ -1,0 +1,21 @@
+#output
+# rajdeep@rajdeep-Aspire-E5-575G:~$ cd PycharmProjects/Pycharm1/
+# rajdeep@rajdeep-Aspire-E5-575G:~/PycharmProjects/Pycharm1$ python3 Remote\ Command\ CLI.py
+# Enter IP:127.0.0.1
+# Enter username:rajdeep
+# Enter Password:123456
+# Command:who
+# rajdeep  tty2         2017-10-08 07:45 (:0)
+# rajdeep@rajdeep-Aspire-E5-575G:~/PycharmProjects/Pycharm1$ python3 Remote\ Command\ CLI.py
+# Enter IP:127.0.0.1
+# Enter username:rajdeep
+# Enter Password:123456
+# Command:whoami
+# rajdeep
+# rajdeep@rajdeep-Aspire-E5-575G:~/PycharmProjects/Pycharm1$ python3 Remote\ Command\ CLI.py
+# Enter IP:127.0.0.1
+# Enter username:rajdeep
+# Enter Password:123456
+# Command:pwd
+# /home/rajdeep
+# rajdeep@rajdeep-Aspire-E5-575G:~/PycharmProjects/Pycharm1$

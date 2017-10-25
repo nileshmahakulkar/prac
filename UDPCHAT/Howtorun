@@ -1,0 +1,12 @@
+step1) start server
+rajdeep@rajdeep-Aspire-E5-575G:~/PycharmProjects/Pycharm1$ python3 UDP_Multiuser_Chat_Central_Server.py 
+
+
+step 2) add clients
+opne new terminal
+rajdeep@rajdeep-Aspire-E5-575G:~/PycharmProjects/Pycharm1$ python3 UDP_Multiuser_Chat_Client.py 
+Enter Address: 127.0.0.1
+Enter Username:rajdeep
+
+to add more clients repeat step 2 in new terminal
+

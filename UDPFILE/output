@@ -1,0 +1,14 @@
+# Server
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg3_UDPFile$ gcc udpservfile.c 
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg3_UDPFile$ ./a.out socket created sucessfully 
+bind Sucessful 
+Received File Contents :this is file transfer program using UDP 
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg3_UDPFile$ 
+
+
+# Client
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg3_UDPFile$ gcc udpclifile.c -o out2
+rajdeep@rajdeep-Aspire-E5-575G:~/CN Python Codes/Group A/Assg3_UDPFile$ ./out2 
+Socket Created Sucessfully 
+Sent File Contents: this is file transfer program using UDP
+

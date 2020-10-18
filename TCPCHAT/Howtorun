@@ -1,15 +1,12 @@
 1) to start the server:
 rajdeep@rajdeep-Aspire-E5-575G:~/PycharmProjects/Pycharm1$ python3 TCP_Multiuser_Chat_Central_Server.py 
 
-
 2) to add clients
 open a new terminal
 rajdeep@rajdeep-Aspire-E5-575G:~/PycharmProjects/Pycharm1$ python3 TCP_Multiuser_Chat_Central_Server.py <ip of server>
 in one computer case
 
 rajdeep@rajdeep-Aspire-E5-575G:~/PycharmProjects/Pycharm1$ python3 TCP_Multiuser_Chat_Central_Server.py 127.0.0.1
-
-
 
 to add more clients repeat step 2
 
